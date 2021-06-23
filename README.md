@@ -6,5 +6,6 @@ The software in this project is highly experimental. Its only purpose is for me 
 
 ## TODO
 
-* Create a minimal Jekyll site
-* Setup authentication for the Jekyll site following the instructions for the [jekyll-auth module](https://github.com/benbalter/jekyll-auth)
+* (/) Create a minimal Jekyll site
+* Create a free Heroku account
+* Follow the [Getting Started](https://github.com/benbalter/jekyll-auth/blob/master/docs/getting-started.md) instructions for the [jekyll-auth module](https://github.com/benbalter/jekyll-auth)
